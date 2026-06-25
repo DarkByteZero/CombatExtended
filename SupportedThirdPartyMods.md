@@ -106,6 +106,7 @@ Animal Collab Project Vanilla-Style |
 Animal Armor: Vanilla	|
 Animal Equipment	|
 Anomalies Expected |
+Anomalies Expected Addon |
 Anomaly Portal |
 Anthro Race |
 Antinium    |
