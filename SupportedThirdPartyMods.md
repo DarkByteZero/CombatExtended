@@ -105,6 +105,7 @@ Anima Gear  |
 Animal Collab Project Vanilla-Style |
 Animal Armor: Vanilla	|
 Animal Equipment	|
+Anomalies Expected |
 Anomaly Portal |
 Anthro Race |
 Antinium    |
